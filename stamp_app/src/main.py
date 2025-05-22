@@ -7,6 +7,7 @@ from tkinter import filedialog, messagebox, ttk
 from PIL import Image, ImageTk, ImageDraw
 from stamp_app.src.image_processing import detect_and_segment_stamps
 from stamp_app.src.db_utils import get_stamp_by_image_path, initialize_database # Added
+#sxvcscx
 
 # Main application script for the stamp scanner app.
 # This file will contain the core logic for the application.
