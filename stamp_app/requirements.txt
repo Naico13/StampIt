@@ -1,0 +1,7 @@
+# Python dependencies for the Stamp Scanner Application will be listed here.
+opencv-python
+requests
+beautifulsoup4
+Pillow
+# For example:
+# SQLAlchemy
